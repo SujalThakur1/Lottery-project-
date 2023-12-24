@@ -5,8 +5,8 @@ How to Use
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/lottery-set.git
-cd lottery-set
+git clone https://github.com/SujalThakur1/Lottery-project-.git
+cd Lottery-project
 ```
 Run the program:
 
