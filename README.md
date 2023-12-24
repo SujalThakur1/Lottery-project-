@@ -4,16 +4,16 @@ This is a simple Java program that simulates a lottery game. Users can choose th
 How to Use
 Clone the repository:
 
-'''bash
+```bash
 git clone https://github.com/your-username/lottery-set.git
 cd lottery-set
-'''
+```
 Run the program:
 
-'''bash
+```bash
 javac lotterySet.java
 java lotterySet
-'''
+```
 Follow the on-screen menu instructions to play the lottery.
 
 Features
